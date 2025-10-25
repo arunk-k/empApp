@@ -17,7 +17,7 @@ const Header = ({ onSearch }) => {
         <Navbar.Toggle className="custom-toggler" aria-controls="basic-navbar" />
 
         <Navbar.Collapse id="basic-navbar-nav" className="justify-content-end">
-          <Nav className="align-items-center">
+          <Nav className="align-items-center my-2">
             <FormControl
               type="text"
               placeholder="Search by name, dept, or position"
