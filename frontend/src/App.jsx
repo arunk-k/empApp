@@ -13,7 +13,7 @@ const App = () => {
         <Route path={'/edit/:id'} element={<EditEmployee />} />
       </Routes>
     </>
-  )
+  ) 
 }
 
 export default App
